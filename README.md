@@ -1,8 +1,8 @@
-# DNVGL-Webscraper
-Scrapes "searched" DNVGL vessels' dimensions, and exports into an excel file.
+# DNVGL-Webscraper: Scrapes "searched" DNVGL vessels' dimensions, and exports into an excel file.
+
 
 This code only works for computers with Mozilla Firefox and is only compatible with Windows.
-
+*********************************************************************************************************
 Step 1: Download python onto the computer; perhaps Spyder
 Here is a link to download python:
 
