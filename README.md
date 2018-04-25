@@ -19,3 +19,6 @@ Here is a link to describe how to do that:
 
 Step 4: Import other stuff
 Here is a link to describe how to do that:
+
+Step #: Once you run the script, a GUI will appear, and will ask for the respective questions. 
+
