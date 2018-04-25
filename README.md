@@ -1,6 +1,8 @@
 # DNVGL-Webscraper: Scrapes "searched" DNVGL vessels' dimensions, and exports into an excel file.
+# MATH610 Dr. Daniel An; Code provided by Juan Córdova, Sean (박승규: Seung-kyu) Park, y también Richard (吴伟菲）Wu.
+We hope this helps all future endevours of any and every naval architect wanting to find projected dimension ratios to build the best ship possible.
+(Just give us partial credit in planning the ship's construction haha jk)
 
-We hope this helps all future endevours of any and every naval architect wanting to find the dimention ratios.
 This code only works for computers with Mozilla Firefox and is only compatible with Windows.
 *********************************************************************************************************
 Step 1: Download python onto the computer; perhaps Spyder
